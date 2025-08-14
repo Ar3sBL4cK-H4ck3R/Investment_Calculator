@@ -1,5 +1,5 @@
 # Investment_Calculator
-Investment Calculator with Go-Lang
+<b>Investment Calculator with Go-Lang</b>
 <br>
 This program is for anyone who want to create an Investment Calculator or want to use it in daliy life investments.
 <br>
