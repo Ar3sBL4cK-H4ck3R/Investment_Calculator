@@ -1,13 +1,6 @@
 # Investment_Calculator
-<<<<<<< HEAD
 
 <b>Investment Calculator with Go-Lang </b>
-# Notes_Taking-Todo_App
-
-<b>Notes Taking and Todo App using Go-Lang</b>
-=======
-<b>Investment Calculator with Go-Lang</b>
->>>>>>> origin/main
 <br>
 <p>   Hey Guys! 
 This My new Project with Go-lang. In this Project I created a Notes Taking App for command line which is helpful when you want to create notes and store it in a json file. Also it save the data and time when you create this note. This program also contains the Todo APP which is also handy for anyone who want to create reminders. I made this app with my full potential and hard work. So don't forget to give me you feedback!!</p>
